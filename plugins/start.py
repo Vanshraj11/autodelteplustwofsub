@@ -83,7 +83,6 @@ async def start_command(client: Client, message: Message):
         reply_markup = InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("⚡️ ᴀʙᴏᴜᴛ", url='https://t.me/Gcx_Network')
                     InlineKeyboardButton('🍁 ᴀᴅᴜʟᴛ ɢᴄx', url='https://t.me/Adult_Gcx')
                 ]
             ]
